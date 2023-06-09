@@ -1,10 +1,11 @@
 # sensitivityBias
 This work is related to a research about a yet undetected positive bias in self-evaluation
+
 Rsearchers involved: 
-Guillaume Deffuant, Inrae, LISC,
-Thibaut Roubin, Inrae, LISC
-Armelle Nugier, Université Clermont-Auvergne, LAPSCO
-Serge Guimond, Université Clermont-Auvergne, LAPSCO
+* Guillaume Deffuant, Inrae, LISC,
+* Thibaut Roubin, Inrae, LISC
+* Armelle Nugier, Université Clermont-Auvergne, LAPSCO
+* Serge Guimond, Université Clermont-Auvergne, LAPSCO
 
 The repository includes the following files:
 * dataExpe.csv includes the data of the experiment
