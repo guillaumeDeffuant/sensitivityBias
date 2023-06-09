@@ -10,3 +10,5 @@ The repository includes the following files:
 * dataExpe.csv includes the data of the experiment
 * sensitivityBias-V1.R includes all R scripts of the treatments
 * allResults.csv includes the data results of sensitvity and bias compuitations on 7938 subsets of the whole data set
+
+The file sensitivityBias.proj is the Rstudio project.
